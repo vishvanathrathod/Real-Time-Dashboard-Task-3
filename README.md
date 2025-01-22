@@ -8,4 +8,4 @@
 
 # OUTPUT :
 
-(https://github.com/user-attachments/assets/94f7fb82-8989-4a46-ae46-0924aba94f15)
+![Image](https://github.com/user-attachments/assets/94f7fb82-8989-4a46-ae46-0924aba94f15)
